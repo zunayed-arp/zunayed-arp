@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, System Design and Development
 - 💞️ I’m looking to collaborate on freelance Software Engineering, Web design and development projects/roles.
 - 📫 Email: zunayed.arp@gmail.com, zunayed.arp@outlook.com
+- Linkedin: https://www.linkedin.com/in/zunayed-arp/
 - cell: +49 152 03167713
 
 <!---
