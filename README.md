@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on freelance Software Engineering, Web design and development projects/roles.
 - 📫 Email: zunayed.arp@gmail.com, zunayed.arp@outlook.com
 - Linkedin: https://www.linkedin.com/in/zunayed-arp/
-- cell: +49 152 03167713
+- cell: +49 155 60683432
 
 <!---
 zunayed-arp/zunayed-arp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
