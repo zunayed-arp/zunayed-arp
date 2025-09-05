@@ -1,4 +1,4 @@
-- 👋 Hi, I’m M Zunayed A R Patwary. Computer Science @ RPTU, Germany 
+- 👋 Hi, I’m M Zunayed A R Patwary. MSc in Computer Science @ RPTU, Germany 
 - 👀 I’m interested in Python, Javascript, HTML, CSS, React, Nextjs, Expressjs, Django, Djangorestframework, PostgreSQL, SQL, MongoDB 
 - 🌱 I’m currently learning Machine Learning, System Design and Development, Software Architecture
 - 💞️ I’m looking to collaborate on freelance Software Engineering, Web design and development projects/roles.
